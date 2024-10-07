@@ -136,7 +136,7 @@ const Landing = () => {
               }}>
               <Grid>
                 <Typography variant="h6" component="div">
-                  HIREEZ
+                  HIREEZZZZ
                 </Typography>
               </Grid>
               <Grid>
